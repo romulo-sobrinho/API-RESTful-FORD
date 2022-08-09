@@ -1,4 +1,4 @@
-![LogoFord](https://user-images.githubusercontent.com/68918326/183781740-a4888fe4-751f-4c4a-adb5-4b23a4d70201.PNG)
+![LogoFord](https://user-images.githubusercontent.com/68918326/183781920-2a8375ab-11f3-4a78-a77e-78c1d2ab5e15.PNG)
 
 <hr>
 <h3 align="center">🎖️PROJETO EM CONSTRUÇÃO🎖️</h3>
