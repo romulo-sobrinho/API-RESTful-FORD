@@ -1,8 +1,18 @@
 const express = require('express')
 const router = express.Router()
 const carControllers = require('../controllers/carControllers')
+const cors = require('cors')
 
-router.get('/', carControllers.showCars)
+// const options = {
+//   origin: 'http://localhost:3000'
+// }
+
+router.use(cors())
+
+router.get('/', (req, res) => {
+  res.render('index')
+})
+router.get('/all', carControllers.showCars)
 
 router.get('/:category', carControllers.showCarsCategory)
 

@@ -1,4 +1,3 @@
-const { resourceLimits } = require('worker_threads')
 const Car = require('../models/Cars')
 
 const showCars = async (req, res) => {
@@ -7,7 +6,7 @@ const showCars = async (req, res) => {
     if(!car) {
       res.status(422).json({message: 'Não foi encontrado nenhum carro na base de dados'})
     }
-    res.status(200).json({car})
+    res.status(200).json(JSON.stringify(car))
   } catch (error) {
     res.status(500).json({message: error})
   }
