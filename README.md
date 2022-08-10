@@ -40,12 +40,17 @@
     ✔️ UPDATE
     ✔️ DELETE
 
+<hr>
 <h2 align="center">Preview</h2>
 
 ![Ford-preview](https://user-images.githubusercontent.com/68918326/184012795-18c3192a-330c-4ec2-b0e9-baaf6edb9f80.PNG)
 
 ![Projeto-FORD2](https://user-images.githubusercontent.com/68918326/184011843-5fb6253e-31f5-4abb-aa37-1b6f9cbf38a2.gif)
 
+<hr>
+
+<br>
+<br>
 
 <h2 align="center">Informações do Projeto</h2><br>
 
