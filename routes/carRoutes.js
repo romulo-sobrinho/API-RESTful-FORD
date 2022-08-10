@@ -3,9 +3,6 @@ const router = express.Router()
 const carControllers = require('../controllers/carControllers')
 const cors = require('cors')
 
-// const options = {
-//   origin: 'http://localhost:3000'
-// }
 
 router.use(cors())
 
@@ -23,3 +20,6 @@ router.patch('/:id', carControllers.updateCar)
 router.delete('/:id', carControllers.deleteCar)
 
 module.exports = router
+// const options = {
+//   origin: 'http://localhost:3000'
+// }
