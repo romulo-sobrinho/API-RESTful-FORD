@@ -41,6 +41,12 @@
     ✔️ DELETE
 
 <h2 align="center">Preview</h2>
+
+![Projeto-FORD2](https://user-images.githubusercontent.com/68918326/184011843-5fb6253e-31f5-4abb-aa37-1b6f9cbf38a2.gif)
+
+
+<h2 align="center">Informações do Projeto</h2><br>
+
 <h3 align="center">Divisão dos arquivos do projeto</h3>
 
 ![OrganizaçãoProjeto](https://user-images.githubusercontent.com/68918326/183781786-cf740739-0980-45ac-8119-8a085b18a8d6.PNG)
