@@ -54,7 +54,11 @@
 
 ![rotas](https://user-images.githubusercontent.com/68918326/184006967-e550575d-a6b6-410a-9ebc-eeb70798b067.PNG)
 
+<br>
 
+<h3 align="center">Model do Projeto</h3>
+
+![model](https://user-images.githubusercontent.com/68918326/184007142-0162b11d-8c73-47bc-9645-ee0c5bb838c6.PNG)
 
 <hr>
 <h3 align="center">🎖️PROJETO EM CONSTRUÇÃO🎖️</h3>
