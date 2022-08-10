@@ -45,8 +45,14 @@
 
 ![OrganizaçãoProjeto](https://user-images.githubusercontent.com/68918326/183781786-cf740739-0980-45ac-8119-8a085b18a8d6.PNG)
 
+![OrganizaçãoProjeto2](https://user-images.githubusercontent.com/68918326/184006770-3bad7da9-73e5-4a16-9648-b1a8b1da3596.PNG)
+
 
 <br>
+
+<h3 align="center">Rotas do Projeto</h3>
+
+![rotas](https://user-images.githubusercontent.com/68918326/184006967-e550575d-a6b6-410a-9ebc-eeb70798b067.PNG)
 
 
 
