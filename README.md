@@ -51,14 +51,33 @@
 <br>
 
 <h3 align="center">Rotas do Projeto</h3>
-
 ![rotas](https://user-images.githubusercontent.com/68918326/184006967-e550575d-a6b6-410a-9ebc-eeb70798b067.PNG)
 
 <br>
 
 <h3 align="center">Model do Projeto</h3>
-
 ![model](https://user-images.githubusercontent.com/68918326/184007142-0162b11d-8c73-47bc-9645-ee0c5bb838c6.PNG)
+
+<br>
+
+<h3 align="center">Arquivo controlador do Projeto</h3>
+<h4 align="center">Mostrar carros por categoria</h4>
+![MostrarCarroPorCategoria](https://user-images.githubusercontent.com/68918326/184007324-511a3c32-303b-4822-aaef-481f0ab999a9.PNG)
+
+<br>
+
+<h4 align="center">Adicionar carro</h4>
+![AdicionarCarro](https://user-images.githubusercontent.com/68918326/184008085-6d0151f3-7cd5-424c-b1f9-4c9d35f5bb14.PNG)
+
+<br>
+
+<h4 align="center">Atualizar carro</h4>
+![AtualizarCarro](https://user-images.githubusercontent.com/68918326/184007880-701e8351-ffc8-4d11-a676-9dfec0f94cf1.PNG)
+
+<br>
+
+<h4 align="center">Excluir carro</h4>
+![DeletarCarro](https://user-images.githubusercontent.com/68918326/184007752-b8c36e51-fa87-46e2-ac50-03040808e501.PNG)
 
 <hr>
 <h3 align="center">🎖️PROJETO EM CONSTRUÇÃO🎖️</h3>
