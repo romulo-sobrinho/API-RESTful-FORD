@@ -3,12 +3,9 @@ const router = express.Router()
 const carControllers = require('../controllers/carControllers')
 const cors = require('cors')
 
-
 router.use(cors())
 
-router.get('/', (req, res) => {
-  res.render('index')
-})
+
 router.get('/all', carControllers.showCars)
 
 router.get('/:category', carControllers.showCarsCategory)
