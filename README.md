@@ -65,7 +65,7 @@
 
 <h3 align="center">Rotas do Projeto</h3>
 
-![rotas](https://user-images.githubusercontent.com/68918326/184006967-e550575d-a6b6-410a-9ebc-eeb70798b067.PNG)
+![RotasProjeto](https://user-images.githubusercontent.com/68918326/184123671-139ba0aa-6667-40d3-adad-40aed490bcfb.PNG)
 
 <br>
 
